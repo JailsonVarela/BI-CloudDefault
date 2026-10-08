@@ -6,3 +6,5 @@
 Nesta atividade utilizamos os dados públicos de um [web site](https://cotacao-euro.pt/#google_vignette) com dados em formato html.
 
 Importamos de forma adequada para o Power BI Desktop e aplicamos as principais ferramentas de transformação e limpeza de dados utilizando o processo Append Queries para automatizar.
+
+As evidências podem ser encontradas na [**pasta evidências**](./evidencias/)

@@ -7,6 +7,6 @@
 2. Criação de visualizações com dados do Excel no Power BI Desktop.
 
 Os relatórios criados foram:
-1. 
+1. Gráfico de barras com profit por product
 
-As evidências podem ser encontradas na \* \*\*Pasta de Evidências\*\* [\`./evidencias/\`](./evidencias/)
+As evidências podem ser encontradas na [**pasta evidências**](./evidencias/)
