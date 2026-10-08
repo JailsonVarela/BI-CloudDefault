@@ -25,6 +25,7 @@ As transformações que executei foram:
 6. Verificar se os cabeçalhos foram excluidos do corpo dos dados;
 7. Renomear TipoMovimento "D" e "C" para "Débito" e "Crédito";
 8. Mudar o tipo de dados de "Valor" com região para número decimal, região Inglês (EUA);
+9. Confirmar o numero de linhas importadas no Power Query e no Power BI Desktop
 
 #### Parte 3: Criação do relatório no Power BI Desktop
 1. Crie um cartão com o total do campo valor.
