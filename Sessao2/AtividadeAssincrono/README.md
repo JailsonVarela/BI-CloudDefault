@@ -8,7 +8,7 @@
 * Crie um novo ficheiro de Power BI e guarde com o seu nome e data 
 de hoje. (NomeApelido_dd-mm-yyyy.pbix)
 * Importe os dados de todas as folhas do ficheiro de Excel em anexo 
-([All data by Month.xlsx](All%20data%20by%20Month.xlsx))"
+([All data by Month.xlsx](./All%20data%20by%20Month.xlsx))
 
 #### Parte 2: Transformação dos dados no Power Query
 1. Aplique o processo de Append Queries para juntar as 12 folhas 
