@@ -9,14 +9,13 @@ Os principais objectivos são:
 - Reconhecer conceitos como chaves primarias e externas, tipos de relações e direção do filtro
 - Boas práticas a aplicar nesta fase.
 
-As atividade estão organizadas em duas partes: 
-1. [Sincrono](./AtividadeSincrono) que é realizado no decorrer da sessão:
-2. [Assincrono](./AtividadeAssincrono) que é realizado depois da sessão.
+As atividades estão organizadas em uma unica pasta [AtividadeSincrono&Assincrono](./AtividadeSincrono&Assincrono).
+
 
 ## Evidencias:
 
-![Modelo de Dados Relacional](./AtividadeSincrono/evidencias/Captura%20de%20ecrã%202026-10-13%20205520.png)
+![Modelo de Dados Relacional](./AtividadeSincrono&Assincrono/evidenciasSincrono/Captura%20de%20ecrã%202026-10-13%20205520.png)
 
-![Vista de modelo](./AtividadeSincrono/evidencias/Captura%20de%20ecrã%202026-10-13%20215432.png)
+![Vista de modelo](./AtividadeSincrono&Assincrono/evidenciasSincrono/Captura%20de%20ecrã%202026-10-13%20215432.png)
 
 ![]()
