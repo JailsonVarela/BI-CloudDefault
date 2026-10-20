@@ -45,3 +45,6 @@ Dicas:
 - Nomes dos atributos que são os nomes das colunas devem ter um nome mais natural. 
 - Podemos ocultar o campo ProductKey na tabela Sales que deixa de estar visivel na tabela de vistas do relatório. 
 Ou por outras palavras podemos ocultar as chaves estrangeiras na vista do modelo para uma melhor visualização e compreensão dos dados na vista de relatório.
+
+
+Para analisar esta versão deve mover o ficheiro [Modelo 13-10-2026.pbix](./Modelo%2013-10-2026.pbix) para a [pasta diretamente acima](./../) (\Modulo05BI&CloudDefault\Sessoes) e então abrir no Power BI Desktop. 
