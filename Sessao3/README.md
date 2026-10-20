@@ -5,8 +5,8 @@
 1. Trabalhar o processo Combine files (Combinar ficheiros)
 2. Trabalhar com dados não normalizados. Tabelas cruzadas. 
 
-As atividade estão organizadas em duas partes: 
-1. [Sincrono](./AtividadeSincrono) que é realizado no decorrer da sessão:
+As atividades estão organizadas em duas partes: 
+1. [Sincrono](./AtividadeSincrono) que é realizado no decorrer da sessão;
 2. [Assincrono](./AtividadeAssincrono) que é realizado depois da sessão.
 
 
