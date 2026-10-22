@@ -1,0 +1,13 @@
+IF(logical_test, value_if_true, value_if_false) -Função condicionante, permite Criar colunas com condições
+
+MONTH(date)- Extrai o número do mês de uma data.
+
+FORMAT(value, format, language) - Formata um número ou texto e permite distingir linguagem e localidade.
+
+CALENDARIO(data_inicio, data_fim) - Cria uma tabela com datas onde a data_inicio começa sempre no dia 1 de Janeiro do ano da data_inicio e termina sempre no último dia do ano da data_fim..
+
+CALENDARIOAUTO(ano_fiscal_termina_em) - Cria uma tabela com datas.
+
+DIVIDE(numerador, denominador, [alternativa_se_denominador_for_zero]) - Divide dois números.
+
+BLANK() - Retorna um valor em branco. Utilizada geralmente em conjunto com o IF para retornar um valor em branco se uma condição não for atendida.

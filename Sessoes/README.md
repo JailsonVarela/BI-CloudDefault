@@ -1,21 +1,40 @@
-# Laboratórios da 4ª Sessão - OA4 
-## Modelo de dados relacional - Reconhecer conceitos básicos - Boas práticas
+# Laboratórios de Sessôes Combinadas/Interligadas
 
-### Atividade 04
+### Atividades
 
-Os principais objectivos são: 
+Vamos reestruturar as informações em formato cascata ou de forma categorizada separando as sessoes por cada Atividade Sincrono e Assincrono
 
-- Criar um modelo de dados relacional
-- Reconhecer conceitos como chaves primarias e externas, tipos de relações e direção do filtro
-- Boas práticas a aplicar nesta fase.
+As atividades passam a seguir ordem cronológica de realização dentro de cada:
 
-As atividades estão organizadas em uma unica pasta [AtividadeSincrono&Assincrono](./AtividadeSincrono&Assincrono).
+*   [AtividadesSincronas](./AtividadesSincronas/)
+    * Tree  .
+            ├── Modelo
+            │   ├── dCategories.xlsx
+            │   ├── dProducts.xml
+            │   ├── dStores+dLocations.xlsx
+            │   ├── dSubCategories.txt
+            │   └── fSales.xlsx
+            ├── Modelo X-10-2026.pbix
+            ├── Sessao6
+            ├── Sessao7
+            └── ...
+    
 
+*   [AtividadesAssincronas](./AtividadesAssincronas/)
+    * Tree  .
+            ├── JailsonVarela_19-10-2026.pbix
+            ├── README.md
+            ├── Sessao6
+            ├── Sessao7
+            └── ...
+
+
+Atualizar os caminhos dos ficheiros de origem no Power BI Desktop:
+1. Editor do Power Query -> Selecionar a tabela -> Passos Aplicados(Origem) -> Barra de formula -> Editar o caminho
+![Atualizar Paths](./../AtividadesSincronas/Sessao6/evidencias/Captura%20de%20ecrã%202026-10-20%20220406.png)
+
+2. Outra forma de atualizar os caminhos é definir os parâmetros.
+![Atualizar Paths](./../AtividadesSincronas/Sessao6/evidencias/Captura%20de%20ecrã%202026-10-20%20220939.png)
 
 ## Evidencias:
 
-![Modelo de Dados Relacional](./AtividadeSincrono&Assincrono/evidenciasSincrono/Captura%20de%20ecrã%202026-10-13%20205520.png)
-
-![Vista de modelo](./AtividadeSincrono&Assincrono/evidenciasSincrono/Captura%20de%20ecrã%202026-10-13%20215432.png)
-
-![]()
