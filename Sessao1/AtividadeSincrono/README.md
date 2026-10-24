@@ -8,5 +8,6 @@
 
 Os relatórios criados foram:
 1. Gráfico de barras com profit por product
+![Gráfico de Barras](./AtividadeSincrono/evidencias/Captura%20de%20ecrã%202026-10-07%212706. png)
 
 As evidências podem ser encontradas na [**pasta evidências**](./evidencias/)
