@@ -3,11 +3,13 @@
 
 ### Atividade 07
 
-O objetivo desta sessão é aplicar o conhecimento de DAX adquirido na sessão síncrona, nomeadamente:
-* Medidas implícitas vs explicitas.
-* Criar tabela para Medidas.
-* Calculo de indicadores.
+O objetivo desta sessão é aplicar o conhecimento adquirido na sessão síncrona aprimorando DAX, nomeadamente:
 
-[Enunciado](OA6%20-%20Lab%20Assíncrono.pdf)
+* Trabalhar com tooltips (descrições).
+* Ranking com DAX.
+* Adicionar visuais personalizados.
+* Introdução à formatação condicional.
+
+[Enunciado](OA7%20-%20Lab%20Assíncrono.pdf)
 
 As evidências podem ser encontradas na [**pasta evidências**](./evidencias/)
