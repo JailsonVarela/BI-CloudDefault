@@ -1,0 +1,13 @@
+If (condição, valor se verdade, valor se falsa) - 
+
+AVERAGEX(tabela, expressão) Faz a media sobre uma tabela do valor da expressão onde  a tabela refere aos campos no eixo x
+
+WEEKNUM(data, 21) - devolve o numero da semana onde 21 definido para seguir a norma ISA8601
+
+MONTH(data)- Devolve o numero do mês reltivo a data
+
+EVALUATE 
+DATEBETWEEN(data_selecioinada_no_calendário, Intervalo_de_calculo_minimo, Intervalo_de_calculo_maximo) - 
+MAX('Calendar'[Date])- devolve a data maxima selecionada no calendário  
+
+SELECTEDVALUE('Calendar'[Year]) - devolve o ano selecionado na tabela calendario

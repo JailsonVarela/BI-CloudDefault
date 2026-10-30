@@ -3,4 +3,4 @@
 ## Atividades Síncronas
 Esta pasta contém as atividades síncronas por sessão.
 
-As atividades estão organizadas em subpastas por sessão seguindo o documento comum (Modelo*.pbix).
+As atividades estão organizadas em subpastas por sessão seguindo o documento comum (Modelo dd-mm-yyyy.pbix).

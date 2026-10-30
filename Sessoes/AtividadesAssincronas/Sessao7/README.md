@@ -1,5 +1,5 @@
 # Laboratório Assíncrono - OA7
-##  Tooltips, Ranking e Formatação Condicional
+## Tooltips, Ranking e Formatação Condicional
 
 ### Atividade 07
 
