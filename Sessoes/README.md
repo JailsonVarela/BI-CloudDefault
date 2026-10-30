@@ -1,6 +1,6 @@
 # Laboratórios de Sessôes Combinadas/Interligadas
 
-### Atividades
+## Atividades
 
 Vamos reestruturar as informações em formato cascata ou de forma categorizada separando as sessoes por cada Atividade Sincrono e Assincrono
 
@@ -31,13 +31,6 @@ As atividades passam a seguir ordem cronológica de realização dentro de cada:
 └── ...
 ```
 
-Atualizar os caminhos dos ficheiros de origem no Power BI Desktop:
-1. Editor do Power Query -> Selecionar a tabela -> Passos Aplicados(Origem) -> Barra de formula -> Editar o caminho
-![Atualizar Paths](./../AtividadesSincronas/Sessao6/evidencias/Captura%20de%20ecrã%202026-10-20%20220406.png)
-
-2. Outra forma de atualizar os caminhos é definir os parâmetros.
-![Atualizar Paths](./../AtividadesSincronas/Sessao6/evidencias/Captura%20de%20ecrã%202026-10-20%20220939.png)
-
 ## Principais Evidencias:
 
 ### Tabela Medidas explicitas
@@ -59,3 +52,13 @@ Atualizar os caminhos dos ficheiros de origem no Power BI Desktop:
 
 ### Land page
 ![Land page](./AtividadesSincronas/Sessao9//evidencias/G1-Captura%20de%20ecrã%202026-10-29%20211916.png)
+
+#### Atualizar os caminhos dos ficheiros de origem no Power BI Desktop:
+
+1. Editor do Power Query -> Selecionar a tabela -> Passos Aplicados(Origem) -> Barra de formula -> Editar o caminho
+
+![Atualizar Paths](./AtividadesSincronas/Sessao6/evidencias/Captura%20de%20ecrã%202026-10-20%20220406.png)
+
+2. Outra forma de atualizar os caminhos é definir os parâmetros.
+
+![Atualizar Paths](./AtividadesSincronas/Sessao6/evidencias/Captura%20de%20ecrã%202026-10-20%20220939.png)
