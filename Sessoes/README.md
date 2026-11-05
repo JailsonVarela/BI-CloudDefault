@@ -15,19 +15,21 @@ As atividades passam a seguir ordem cronológica de realização dentro de cada:
 │   ├── dStores+dLocations.xlsx
 │   ├── dSubCategories.txt
 │   └── fSales.xlsx
-├── Modelo dd-10-2026.pbix
 ├── Sessao6
+│   └── Modelo dd-10-2026.pbix
 ├── Sessao7
+│   └── Modelo dd-10-2026.pbix
 └── ...
 ```
 
 *   [AtividadesAssincronas](./AtividadesAssincronas/)
 
 ```
-├── JailsonVarela_dd-10-2026.pbix
 ├── README.md
 ├── Sessao6
+│   └── JailsonVarela_dd-10-2026.pbix
 ├── Sessao7
+│   └── JailsonVarela_dd-10-2026.pbix
 └── ...
 ```
 
