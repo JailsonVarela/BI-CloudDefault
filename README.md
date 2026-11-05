@@ -12,3 +12,4 @@
 8. Utilizar Tooltips(Descrições) e Formatação condicional para melhorar a qualidade da informação.
 9. ...(mais conteúdo conforme a progressão do módulo)
 
+Link: [Principais Evidencias](https://github.com/JailsonVarela/BI-CloudDefault/blob/main/Sessoes/README.md#principais-evidencias)
