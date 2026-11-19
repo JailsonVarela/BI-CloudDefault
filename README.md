@@ -12,4 +12,8 @@
 8. Utilizar Tooltips(Descrições) e Formatação condicional para melhorar a qualidade da informação.
 9. Publicar e partilhar relatórios no Power BI Service
 
-Link: [Principais Evidencias](https://github.com/JailsonVarela/BI-CloudDefault/blob/main/Sessoes/README.md#principais-evidencias)
+Links: 
+
+* [Principais Evidencias](https://github.com/JailsonVarela/BI-CloudDefault/blob/main/Sessoes/README.md#principais-evidencias)
+
+* [Sessão 1](./Sessao1/README.md)
