@@ -10,6 +10,6 @@
 6. DAX (Data Analysis Expressions) Introduzir o uso de formulas.
 7. Aplicar DAX para criar indicadores/medidas e tabelas de medidas.
 8. Utilizar Tooltips(Descrições) e Formatação condicional para melhorar a qualidade da informação.
-9. ...(mais conteúdo conforme a progressão do módulo)
+9. Publicar e partilhar relatórios no Power BI Service
 
 Link: [Principais Evidencias](https://github.com/JailsonVarela/BI-CloudDefault/blob/main/Sessoes/README.md#principais-evidencias)
