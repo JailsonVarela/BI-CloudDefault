@@ -41,9 +41,9 @@ Os relatórios criados foram:
 ![](./evidenciasAssincrono/Captura%20de%20ecrã%202026-10-14%20123946.png)
 
 Dicas:
-- Sempre que aparecer uma table no espaço de uma tabela não devemos clicar nala, clicamos ao lado para visualizar o conteudo nos detalhes.
+- Sempre que aparecer uma table no espaço de uma tabela não devemos clicar nela, clicamos ao lado para visualizar o conteudo nos detalhes.
 - Nomes dos atributos que são os nomes das colunas devem ter um nome mais natural. 
-- Podemos ocultar o campo ProductKey na tabela Sales que deixa de estar visivel na tabela de vistas do relatório. 
+- Podemos ocultar o campo ProductKey na tabela Sales (vista do modelo) que deixa de estar visivel na tabela de vistas do relatório. 
 Ou por outras palavras podemos ocultar as chaves estrangeiras na vista do modelo para uma melhor visualização e compreensão dos dados na vista de relatório.
 
 
@@ -55,3 +55,8 @@ Atualizar os caminhos dos ficheiros de origem no Power BI Desktop:
 
 2. Outra forma de atualizar os caminhos é definir os parâmetros.
 ![Atualizar Paths](./../AtividadesSincronas/Sessao6/evidencias/Captura%20de%20ecrã%202026-10-20%20220939.png)
+
+
+[Sessão Anterior](../../Sessao3/README.md)                                         
+
+[Sessão Seguinte](../AtividadesSincrono&AssincronoSessao5/README.md)

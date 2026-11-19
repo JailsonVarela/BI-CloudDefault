@@ -11,8 +11,14 @@ As atividades estão organizadas em duas partes:
 2. [Assincrono](./AtividadeAssincrono) que é realizado depois da sessão.
 
 
-![Exemplo de criação de coluna calculada](./evidenciasSincrono/)
+![Exemplo de criação de coluna calculada](./evidenciasSincrono/Captura%20de%20ecrã%202026-10-15%20203717.png)
 
-![Exemplo de criação da tabela Calendário](./evidenciasSincrono/)
+![Exemplo de criação da tabela Calendário](./evidenciasSincrono/Captura%20de%20ecrã%202026-10-15%20215723.png)
 
-![Exemplo de Relatório final](./evidenciasSincrono/)
+![Exemplo de Relatório final](./evidenciasSincrono/Captura%20de%20ecrã%202026-10-19%20141729.png)
+
+
+
+[Sessão Anterior](../AtividadesSincrono&AssincronoSessao4/README.md)                                         
+
+[Sessão Seguinte](../AtividadesSincronas/Sessao6/README.md)

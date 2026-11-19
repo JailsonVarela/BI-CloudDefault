@@ -14,4 +14,8 @@ Informação adicional: **web scraping** com power query - forma de adicionar im
 
 ![Exemplo de aplicação de Append Queries](./AtividadeAssincrono/evidencias/Captura%20de%20ecrã%202026-10-08%20112245.png)
 
-![Exemplo de Relatório final](./AtividadeSincrono/Demo%201/evidencias/Captura%20de%20ecrã%202026-10-06%20205352.png)
+![Exemplo de Relatório final](./AtividadeSincrono/Demo1/evidencias/Captura%20de%20ecrã%202026-10-06%20205352.png)
+
+[Sessão Anterior](../Sessao1/README.md)                                         
+
+[Sessão Seguinte](../Sessao3/README.md)

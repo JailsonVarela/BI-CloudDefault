@@ -19,3 +19,7 @@ Como podemos visualizar nas imagens abaixo:
 ![Formatação condicional com parâmetros numéricos](./evidencias/Captura%20de%20ecrã%202026-10-27%20184540.png)
 
 As evidências podem ser encontradas na [**pasta evidências**](./evidencias/)
+
+[Sessão Anterior](../Sessao7/README.md)                                         
+
+[Sessão Seguinte](../Sessao9/README.md)

@@ -24,3 +24,9 @@ Como podemos visualizar nas imagens abaixo:
 ![FormataçaoCondicional 2](./evidencias/Captura%20de%20ecrã%202026-10-22%20220528.png)
 
 As evidências podem ser encontradas na [**pasta evidências**](./evidencias/)
+
+
+
+[Sessão Anterior](../Sessao6/README.md)                                         
+
+[Sessão Seguinte](../Sessao8/README.md)

@@ -9,3 +9,8 @@ O objetivo desta sessão é trabalhar com:
 * Calculo de indicadores.
 
 As evidências podem ser encontradas na [**pasta evidências**](./evidencias/)
+
+
+[Sessão Anterior](../../AtividadesSincrono&AssincronoSessao5/README.md)                                         
+
+[Sessão Seguinte](../Sessao7/README.md)

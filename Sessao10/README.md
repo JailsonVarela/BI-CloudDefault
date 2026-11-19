@@ -14,3 +14,5 @@ Esta é a atividade final onde iremos caminhar todo o percurso feito durante as 
 [Enunciado](./ProjectoFinal/OA10%20-%20Lab%20Assíncrono.pdf)
 
 As evidências podem ser encontradas na [**pasta evidências**](./evidencias/)
+
+[Sessão Anterior](../Sessoes/AtividadesSincronas/Sessao9/README.md)

@@ -25,3 +25,6 @@ ou decarregando o projecto, abrindo-o no seu Power BI Desktop depois de instalar
 As evidências podem ser encontradas na [**pasta evidências**](./evidencias/)
 
 
+[Sessão Anterior](../Sessao8/README.md)                                         
+
+[Sessão Seguinte](../../../Sessao10/README.md)

@@ -15,3 +15,8 @@ As atividades estão organizadas em duas partes:
 ![Unpivot](./AtividadeSincrono/Demo4/evidencias/Captura%20de%20ecrã%202026-10-08%20213606.png)
 
 ![Exemplo de Relatório final](./AtividadeSincrono/Demo4/evidencias/Captura%20de%20ecrã%202026-10-08%20214259.png)
+
+
+[Sessão Anterior](../Sessao2/README.md)                                         
+
+[Sessão Seguinte](../Sessoes/AtividadesSincrono&AssincronoSessao4/README.md)
